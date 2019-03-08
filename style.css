@@ -1,8 +1,10 @@
 .main {
-    align: center;
+    text-align: center;
 
 }
 .box {
+    position: absolute;
+    left: 80px;
     width: 100%;
     height: 200px;
 }
